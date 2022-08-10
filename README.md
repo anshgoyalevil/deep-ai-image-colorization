@@ -31,6 +31,12 @@ How to run the web app?
 <br>
 Run:
 ```
-npm install inside the project directory to
+npm install
 ```
-Create a .env file inside the root directory of the app, and get your free api key from DeepAI.org
+inside the project directory to install all node dependencies.
+<br>
+Create a .env file inside the root directory of the app, and get your free api key from DeepAI.org, and paste it inside the .env file. Start your express server thereafter by typing:
+```
+node index.js
+```
+Now, open up a browser and visit - [127.0.0.1:3000] to checkout the app.
