@@ -27,7 +27,7 @@ Following Node Modules are used:
 ## API Used:
 It uses an advanced image colorization api powered by DeepAI.org
 
-## How to run the web app?
+How to run the web app?
 <br>
 Run:
 ```
