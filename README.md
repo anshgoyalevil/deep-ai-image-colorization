@@ -1,4 +1,4 @@
-# Image Colorization using Deep Learning
+# Image Colorization using Deep Learning Algorithm 
 
 Image Colorization Using Deep Learning is a Utility tool to Convert the Black & White Images to Colored Images. It used a large pre-processed data and deep learning models trained by DeepAI to compute the output image.
 
