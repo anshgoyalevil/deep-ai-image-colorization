@@ -8,6 +8,7 @@ const deepai = require('deepai');
 const _ = require('lodash');
 deepai.setApiKey(process.env.API_KEY);
 
+//creating app
 const app = express();
 app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({ extended: true }));
